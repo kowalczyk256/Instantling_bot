@@ -38,6 +38,7 @@ This version originates from the <a href ="https://github.com/kowalczyk256/Insta
 
 Make sure you have the following installed:
 
+- Google Chrome or Chromium
 - Python 3.x  
 - Required libraries: `discord.py`, `requests`, `sqlite3`, `datetime`, `os`, `threading`, `selenium`  
 - A server environment (Debian recommended)  
@@ -132,6 +133,7 @@ Ta wersja wywodzi się z wersji <a href ="https://github.com/kowalczyk256/Instan
 
 Upewnij się, że masz zainstalowane:
 
+- Google Chrome lub Chromium
 - Python 3.x  
 - Biblioteki: `discord.py`, `requests`, `sqlite3`, `datetime`, `os`, `threading`, `selenium` 
 - System serwerowy (np. Debian)  
