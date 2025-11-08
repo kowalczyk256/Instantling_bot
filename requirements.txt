@@ -1,0 +1,7 @@
+discord.py
+requests
+selenium
+sqlite3
+datetime
+os
+threading
