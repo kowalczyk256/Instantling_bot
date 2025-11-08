@@ -2,7 +2,7 @@
   <img src="./logo.png" alt="Logo Projektu" width="150">
 </p>
 
-<h1 align="center">Instantling Server</h1>
+<h1 align="center">Instantling Bot</h1>
 
 <p align="center">
   <strong><a href="#-english">English</a></strong> | <strong><a href="#-polski">Polski</a></strong>
